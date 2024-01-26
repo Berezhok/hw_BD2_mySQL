@@ -26,6 +26,25 @@
 ### 
 ### Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.
 ### 
+### Решение:
+### 1.1. Установили mysql на локальный сервер.
+### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/mysqlversion.png)
+### 1.2. Создали учетную запись sys_temp
+### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/createUser.png)
+### 1.3. Список пользователй до и после создания нового user 'sys_temp'
+### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/spisokuser.png)
+### 1.4. Дали все права пользователю sys_temp
+### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/grantAll.png)
+### 1.5. Вывод запроса на права пользователя sys_temp 
+### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/grantsystemp.png)
+### 1.6-7. Восстановили дамп в базу данных и перезашли в mysql через sys_temp 
+### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/dumpInstall.png)
+### 1.8. Получили список обновленный баз данных и вывели список таблиц для базы данных sakila
+### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/showsakilatables.png)
+### 
+### 
+### 
+### 
 ## Задание 2
 ### Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
 ### 
