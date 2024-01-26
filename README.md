@@ -36,7 +36,7 @@
 ### 1.4. Дали все права пользователю sys_temp
 ### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/grantAll.png)
 ### 1.5. Вывод запроса на права пользователя sys_temp 
-### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/grantsystemp.png)
+### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/grantssystemp.png)
 ### 1.6-7. Восстановили дамп в базу данных и перезашли в mysql через sys_temp 
 ### ![](https://github.com/Berezhok/hw_BD2_mySQL/blob/main/img/dumpInstall.png)
 ### 1.8. Получили список обновленный баз данных и вывели список таблиц для базы данных sakila
